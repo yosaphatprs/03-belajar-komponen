@@ -48,3 +48,19 @@ Hasil dari perubahan soal 2:
 ![Soal 2](assets-report/02.png)
 
 Terdapat sedikit perbedaan, namun hal ini hanya dikarenakan beda pendekatan layouting, jika pendekatan layouting sama, maka hasil tampilan akan sama.
+
+### Jawaban Soal 3
+
+Hasil dari perubahan soal 3 yang telah diperbaiki:
+![Soal 3](assets-report/03.png)
+
+Yang telah saya pelajari adalah:
+- Dalam sebuah komponen pada penulisan jsx, jika terdapat lebih dari 1 tag yang bertumpuk harus ada container yang membungkus tag-tag tadi
+- Dalam penulisan jsx, setiap tag harus memiliki tag penutup
+- Dalam penulisan jsx, class diubah menjadi className
+
+Error yang terjadi pada soal 3 ada beberpa, yaitu:
+- Tidak ada container yang membungkus tag-tag yang bertumpuk, saya menggunakan fragment untuk memperbaik error ini
+- Penulisan class yang seharusnya className
+- Tag <br> yang seharusnya memiliki tag penutup
+- Penempatan tag penutup `<b>` dan `<i>` yang tidak pada tempatnya
