@@ -31,3 +31,20 @@ Di dalam nextConfig yang berada dalam next.config.mjs
 Hasil dari soal 1 adalah sebagai berikut
 
 ![Soal 1](assets-report/01.png)
+
+### Jawaban Soal 2
+
+Hal yang telah saya pelajari adalah terdapat 2 jenis import dan export komponen pada Next.js, yaitu:
+
+- Named
+- Default
+
+Dalam melakukan export komponen pada next.js, kita hanya boleh menggunakan export default 1 kali saja per file, sedangkan untuk named export, kita dapat melakukan export sebanyak mungkin. Kita juga dapat menggabungkan named dan default export dalam 1 file.
+
+Dalam menggunakan named export, ketika melakukan import, namanya harus sama dengan yang diexport. Sedangkan untuk default export, kita dapat memberikan nama apapun ketika melakukan import.
+
+Hasil dari perubahan soal 2:
+
+![Soal 2](assets-report/02.png)
+
+Terdapat sedikit perbedaan, namun hal ini hanya dikarenakan beda pendekatan layouting, jika pendekatan layouting sama, maka hasil tampilan akan sama.
