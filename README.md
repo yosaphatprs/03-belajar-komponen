@@ -64,3 +64,10 @@ Error yang terjadi pada soal 3 ada beberpa, yaitu:
 - Penulisan class yang seharusnya className
 - Tag <br> yang seharusnya memiliki tag penutup
 - Penempatan tag penutup `<b>` dan `<i>` yang tidak pada tempatnya
+
+### Jawaban Soal 4
+
+Perbaikan untuk nomor 4 dilakukan dengan menambahkan dot/titik diikuti dengan key dari object yang ingin diakses. Dalam soal ini yaitu key name dari object person. Sehingga kode program akan menjadi seperti berikut
+```javascript
+<h1>{person.name}'s Todos</h1>
+```
