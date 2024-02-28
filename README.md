@@ -71,3 +71,10 @@ Perbaikan untuk nomor 4 dilakukan dengan menambahkan dot/titik diikuti dengan ke
 ```javascript
 <h1>{person.name}'s Todos</h1>
 ```
+
+### Jawaban Soal 5
+
+Hasil dari perubahan soal 5 yang url dari image telah diekstrak:
+![Soal 5](assets-report/05.png)
+
+Tidak ada perbedaan pada tampilan website.
