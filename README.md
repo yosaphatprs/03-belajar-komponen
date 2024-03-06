@@ -86,3 +86,8 @@ Yang saya pelajari dari soal tersebut adalah, untuk kita dapat mengakses langsun
 
 Berikut adalah hasil dari soal 6:
 ![Soal 6](assets-report/06.png)
+
+### Jawaban Soal 7
+
+Yang telah saya pelajari adalah cara menggunakan props, yaitu dengan menambahkan props pada parameter dari komponen yang ingin diakses, kemudian di komponen akan diakses, diberi props dengan nama sesuai dengan komponen. Berikut hasil tampilan dari soal 7:
+![Soal 7](assets-report/07.png)
