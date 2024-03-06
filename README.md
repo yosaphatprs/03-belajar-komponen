@@ -78,3 +78,11 @@ Hasil dari perubahan soal 5 yang url dari image telah diekstrak:
 ![Soal 5](assets-report/05.png)
 
 Tidak ada perbedaan pada tampilan website.
+
+
+### Jawaban Soal 6
+
+Yang saya pelajari dari soal tersebut adalah, untuk kita dapat mengakses langsung isi dari object dari dalam kurung kurawal dan menggabungkannya.
+
+Berikut adalah hasil dari soal 6:
+![Soal 6](assets-report/06.png)
