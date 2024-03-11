@@ -32,8 +32,10 @@ export default function MyGallery() {
     return (
         <div>
             <h1>Notable Scientists</h1>
-            <MyProfile person={person} />
-            <MyProfile person={person2} />
+            <MyProfile />
+            <MyProfile />
+            {/* <MyProfile person={person} /> */}
+            {/* <MyProfile person={person2} /> */}
         </div>
     );
 }

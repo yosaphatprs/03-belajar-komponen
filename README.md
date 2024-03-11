@@ -91,3 +91,8 @@ Berikut adalah hasil dari soal 6:
 
 Yang telah saya pelajari adalah cara menggunakan props, yaitu dengan menambahkan props pada parameter dari komponen yang ingin diakses, kemudian di komponen akan diakses, diberi props dengan nama sesuai dengan komponen. Berikut hasil tampilan dari soal 7:
 ![Soal 7](assets-report/07.png)
+
+### Jawaban Soal 8
+
+Yang telah saya pelajari adalah, kita bisa menggunakan ternary operator untuk melakukan pengecekan di dalam komponen jsx. Kemudian saya juga mempelajari cara menghandle props yang dikirim dari komponen lain. Berikut hasil tampilan dari soal 8:
+![Soal 8](assets-report/08.png)
