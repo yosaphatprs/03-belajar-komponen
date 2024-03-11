@@ -1,4 +1,5 @@
 import MyProfile from "@/components/myprofile";
+import MyProfileV2 from "@/components/myprofilev2";
 
 const person = {
     name: 'Maria Skłodowska-Curie',
@@ -32,8 +33,11 @@ export default function MyGallery() {
     return (
         <div>
             <h1>Notable Scientists</h1>
-            <MyProfile />
-            <MyProfile />
+            <MyProfileV2 />
+            <MyProfileV2 />
+            <MyProfileV2 />
+            {/* <MyProfile />
+            <MyProfile /> */}
             {/* <MyProfile person={person} /> */}
             {/* <MyProfile person={person2} /> */}
         </div>
